@@ -35,20 +35,22 @@
 
 #sidebar-div{
     width:20%;
+    padding-top: 100px;
     min-height:400px;
     background-color:#0e1b45;
     float:left;
     text-align:center;
-    line-height:400px;
+    line-height:40px;
 }
 
 #bodyarea-div{
+    padding-top:100px;
     width:75%;
     min-height:400px;
     background-color:#0e1b45;
     float:right;
     text-align:center;
-    line-height:400px;
+    line-height:40px;
 }
 
 .clearfix::after{
